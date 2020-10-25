@@ -14,6 +14,8 @@ AdaBelief: https://github.com/juntang-zhuang/Adabelief-Optimizer<br>
 See documentation in https://github.com/Kaixhin/Rainbow
 
 ## Results
+Results are in the folder ```results/default```. We provide the results for two independent runs with AdaBelief.
+
 #### Adam
 ![](results/Adam.png)
 
