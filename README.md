@@ -9,3 +9,10 @@ AdaBelief: https://github.com/juntang-zhuang/Adabelief-Optimizer<br>
 ```sh run.sh```
 #### Train with Adam
 See documentation in https://github.com/Kaixhin/Rainbow
+
+## Results
+#### Adam
+![](results/Adam.png)
+
+#### AdaBelief
+![](results/AdaBelief.png)
